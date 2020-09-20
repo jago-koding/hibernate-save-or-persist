@@ -1,1 +1,1 @@
-Hibernate Tutorial Konfigurasi
+Hibernate Tutorial save or persist
